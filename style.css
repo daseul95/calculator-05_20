@@ -19,13 +19,12 @@ body {
     border-radius : 10px;
     justify-content: center;
     align-items: center;
-    flex :3;
+    flex : 1;
   }
   .resultNumber{
     background-color: rgb(252, 252, 252);
     text-align: end;
     width : 100vw;
-    height :65px;
     margin : 5px 5px 5px 5px;
 
   }
@@ -33,26 +32,25 @@ body {
     display: flex;
     flex : 7;
     flex-direction: column;
+    
   }
   .row{
     background-color: rgb(241, 235, 241);
     padding : 15px 10px 10px 0px;
     margin : 5px 5px 5px 5px;
-
   }
   .r1{
-    display : flex;
+    display : flex;;
     flex-direction: row;
-    flex: 1;
   }
-  .control {   background-color: rgb(106, 252, 106);
+  .control {  background-color: rgb(106, 252, 106);
     display : flex;
     border-radius : 10px;
     padding : center;
     padding : 15px 15px 15px 15px;
     margin-right: 10px;
 }
-  .c1{
+  .c1{ 
 
   }
   .c2{
@@ -76,7 +74,7 @@ body {
   .r2{
     display : flex;
     flex-direction: row;
-    flex: 1;
+
   }
   .n7{
   }
@@ -92,7 +90,7 @@ body {
 
   .r3{
     display : flex;
-    flex: 1;
+    flex-direction: row;
   }
   .n4{
   }
@@ -103,7 +101,6 @@ body {
 
   .r4{
     display : flex;
-    flex: 1;
   }
   .n1{
   }
@@ -114,7 +111,6 @@ body {
 
   .r5{
     display : flex;
-    flex: 1;
   }
   .n0{
 
